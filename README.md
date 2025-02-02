@@ -28,17 +28,7 @@ we developed this lms based project using mern full stack
 
 9. all products API          (get)=  https://dummyjson.com/products
 
-regex
-//////////////////////////////////////
-it is a language by which we can create a search pattern by which we can extract data from given string using that pattern;
 
-general syntext for reguler expression in js 
-
-cosnt pattern  =  /hello world/i;
-
-//////////// another wayt 
-
-cosnt pattern =  new regex('hello world')
 
 
 http://localhost:8000/cards 
